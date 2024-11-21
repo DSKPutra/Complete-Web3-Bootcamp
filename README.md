@@ -143,23 +143,3 @@ This part introduces some advanced concepts in smart contract developing.
 
 <hr/>
 <br/>
-
-# Otopsi
-
-ITU Blockchain introduced a new series called [Otopsi](https://www.youtube.com/playlist?list=PLby2HXktGwN6xdcr2RHMhdmpHUvt3SbnQ)!
-
-<img src="./videoimgs/otopsi.jpeg" alt="otopsi" width="800"/>
-
-From now on, Post-Mortem Analyzes will be carried out under this series with a larger team.
-
-<hr/>
-
-| Index      | Topic        | Link                                                                                                                              |
-| :--------- | :----------- | :-------------------------------------------------------------------------------------------------------------------------------- |
-| Otopsi 0   | Nomad Bridge | [Go](https://www.youtube.com/watch?v=yn2s5WkdASo&list=PLby2HXktGwN6xdcr2RHMhdmpHUvt3SbnQ&index=1&t=936s&ab_channel=ITUBlockchain) |
-| Otopsi 1   | Slope Wallet | [Go](https://www.youtube.com/watch?v=zAazp8he8gI&list=PLby2HXktGwN6xdcr2RHMhdmpHUvt3SbnQ&index=2&t=6s&ab_channel=ITUBlockchain)   |
-| Otopsi 2   | Tornado Cash | [Go](https://www.youtube.com/watch?v=TYc3pBlQGM0&list=PLby2HXktGwN6xdcr2RHMhdmpHUvt3SbnQ&index=3&ab_channel=ITUBlockchain)        |
-| Otopsi 3.0 | FTX Collapse | [Go](https://www.youtube.com/watch?v=3GLuX7jDAd0)        |
-| Otopsi 3.1 | FTX Collapse and Beyond | [Go](https://www.youtube.com/watch?v=qK0nSIHtra4)        |
-| Otopsi 4   | Silicon Valley Bank     | [Go](https://www.youtube.com/live/ICSKx-0-Z20)        |
-| Otopsi 5   | Euler Finance Hack | [Go](https://www.youtube.com/watch?v=O3xkTcJKtdY&ab_channel=ITUBlockchain)        |
