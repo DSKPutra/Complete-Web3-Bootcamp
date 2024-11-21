@@ -1,6 +1,5 @@
-# Open-Sourced Turkish Smart Contract Developer Bootcamp - ITU Blockchain
+# Smart Contract Developer Bootcamp (Turkish)
 
-<img src="./itublockchain&ef.png" alt="header" width="800"/>
 
 <br/>
 
@@ -9,14 +8,6 @@ Our bootcamp contains different subjects about blockchain & smart contract devel
 We started to work on expanding our training content, which we started to prepare in February 2022, with the support we received from Ethereum Foundation.
 
 You can reach the [curriculum](#curriculum) we have prepared in line with the education in this section. After the completion of the specified contents, we will work to expand it with pleasure.
-
-Please [contact us](mailto:blockchain@itu.edu.tr) if you are willing to contribute this project.
-
-[Our Youtube Channel](https://www.youtube.com/c/ITUBlockchain/)
-
-[Follow Us in Twitter](https://twitter.com/ITUBlockchain)
-
-[Join Our Discord Server, Get Jr.Dev Role, and Meet Buidlers](https://discord.gg/5HzQ4QzBGS)
 
 <br/>
 
